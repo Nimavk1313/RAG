@@ -1,0 +1,11 @@
+{
+  "test": {
+    "created_at": "2025-10-18T13:26:11.141424",
+    "last_updated": "2025-10-18T13:27:30.308046",
+    "dimension": 384,
+    "index_type": "Flat",
+    "metric": "L2",
+    "description": "",
+    "path": "data\\vector_db\\test"
+  }
+}
